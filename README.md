@@ -60,3 +60,5 @@ python3 devops_monitor.py "the system is working fine .. nothing to look at ..ev
 - Connect to real Gmail SMTP for email alerts
 - Send disk space alerts via email 
 
+## Author :
+Mujab Youef : A Devops Engineer In Training 
