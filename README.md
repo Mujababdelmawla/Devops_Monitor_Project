@@ -46,7 +46,7 @@ devops-monitor/
 
 ## How To Run :
 '''bash 
-git clone .....
+git clone https://github.com/Mujababdelmawla/Devops_Monitor_Project
 cd devops_monitor 
 python3 -m venv (env-name)
 source (env-name)/bin/activate 
